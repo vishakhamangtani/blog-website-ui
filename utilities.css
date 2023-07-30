@@ -1,0 +1,30 @@
+/* <!-- green #006f5c orange-#ff6719 --> */
+*
+{
+    font-family: 'Spectral', serif;
+    /* box-sizing: border-box; */
+    
+}
+.text-white
+{
+    color: white;
+}
+.my-bg
+{
+    background-color: #006f5c;
+}
+.my-btn
+{
+    background-color: #ff6719;
+    color: white;
+    border:0px;
+}
+#hero-image
+{
+    width: 80%;
+}
+.image-height
+{
+    height: 440px;
+    width: 100%;
+}
