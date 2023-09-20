@@ -23,12 +23,18 @@
     color: white;
     border:0px;
 }
+.my-btn:hover , .my-btn:active
+{
+    background-color: rgb(255, 103, 25,0.9);
+    color: rgba(255, 255, 255, 0.853);
+}
 #hero-image
 {
     width: 80%;
 }
 .image-height
 {
-    height: 440px;
+    height: 300px;
     width: 100%;
+    border-radius: 20%;
 }
