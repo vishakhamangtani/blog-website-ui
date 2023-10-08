@@ -77,9 +77,15 @@
   .active {
     background-color: #e0e9ff;
   }
+  
   .my-btn
   {
       background-color: #ff6719;
       color: white;
       border:0px;
+  }
+  .my-btn:hover , .my-btn:active
+  {
+      background-color: rgb(255, 103, 25,0.9);
+      color: rgba(255, 255, 255, 0.853);
   }
